@@ -3,6 +3,10 @@ Responsive food e-commerce website made with HTML, CSS, and JavaScript.
 <br>
 Optimized responsiveness on desktop and mobile only.
 <br>
+<br>
+Mobile device tested on:
+- Poco X3 NFC
+- Samsung A21S
 
 ## Preview
 Desktop
